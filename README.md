@@ -90,7 +90,7 @@ The following assumptions were made during development:
 
 ## 9. AI Assistance Acknowledgement
 
-I used ChatGPT as an AI learning assistant to help me understand the assignment requirements, Python OOP concepts, code structure, automated testing, and project documentation.
+I used ChatGPT and Claude Code as an AI learning assistants to help me understand the assignment requirements, Python OOP concepts, code structure, automated testing, and project documentation.
 
 I reviewed and tested the code and used the explanations to support my understanding of the project.
 
