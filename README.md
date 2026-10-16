@@ -90,13 +90,13 @@ The following assumptions were made during development:
 
 ## 9. AI Assistance Acknowledgement
 
-I used ChatGPT and Claude Code as an AI learning assistants to help me understand the assignment requirements, Python OOP concepts, code structure, automated testing, and project documentation.
+I used ChatGPT and Claude Code as an AI learning assistants to help me understand the assignment requirements, Python concepts, code structure, automated testing, and project documentation.
 
 I reviewed and tested the code and used the explanations to support my understanding of the project.
 
 ## 10. Conclusion
 
-This project demonstrates how Python OOP can be used to develop a simple Bicycle Rental System. It includes bicycle management, rental operations, input validation, exception handling, and automated tests.
+This project demonstrates how Python can be used to develop a simple Bicycle Rental System. It includes bicycle management, rental operations, input validation, exception handling, and automated tests.
 
 The assignment helped me practise creating classes and objects, using inheritance and abstract classes, and testing a Python application.
 
